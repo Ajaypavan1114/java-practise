@@ -1,5 +1,5 @@
 import java.util.*;
-public class minele{
+public class Minele{
     public static void main (String args[]){
         int i,n,min=o;
         System.out.println("enter size of an array");
