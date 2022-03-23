@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class divisible5and11 {
+class Divisible5and11 {
     public static void main(String args[]){
         int num;
         Scanner sc = new Scanner (System.in);
