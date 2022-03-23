@@ -4,7 +4,7 @@
  * n should be >= 0
  */
  
-public class nfactorial {
+public class Nfactorial {
  
     public static void main(String[] args) {
         int n = 5;
