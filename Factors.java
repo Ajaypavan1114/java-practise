@@ -1,7 +1,7 @@
 // Java Program to Find Factors of a Number using While loop
 import java.util.Scanner;
 
-class factors {
+class Factors {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
