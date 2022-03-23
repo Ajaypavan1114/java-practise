@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class maxof3num {
+class Maxof3num {
 
 
     public static void main(String args[]){
