@@ -1,5 +1,5 @@
 import java.util.*;
-class minarray {
+class Minarray {
     public static void main(String argss[]){
         int n,min;
         Scanner sc = new Scanner(System.in);
