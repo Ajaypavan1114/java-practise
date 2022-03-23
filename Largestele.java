@@ -1,5 +1,5 @@
 import java.util.*;
-class largestele{
+class Largestele{
     public static void main (String args[]){
         int i,n,temp;
         System.out.println("enter size of an array");
