@@ -1,6 +1,6 @@
 //22.Write a Java program to find sum of all natural numbers between 1 to n.
 import java.util.Scanner; 
-class sumallnatural{
+class Sumallnatural{
 public static void main(String args[]){
 Scanner sc=new Scanner(System.in);
 System.out.println("enter number");
