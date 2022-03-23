@@ -1,6 +1,6 @@
 //Write a JAVAprogram to find sum of all even numbers between 1 to n.
 import java.util.Scanner;
-class sumevenfor
+class Sumevenfor
 {
     public static void main(String[] args) {
         int i,sum=0,n;
