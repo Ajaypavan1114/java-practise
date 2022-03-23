@@ -1,5 +1,5 @@
 import java.util.*;
-class counteven{
+class Counteven{
     public static void main (String args[]){
         int i,n,ecount=0,ocount=0;
         System.out.println("enter size of an array");
