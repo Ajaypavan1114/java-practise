@@ -1,7 +1,7 @@
 //Write a JAVAprogram to print all odd number between 1 to 100.
 import java.util.Scanner;
 
-class alloddwhile
+class Alloddwhile
 {
     public static void main(String[] args) {
 		int i =1;
