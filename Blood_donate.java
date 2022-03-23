@@ -1,5 +1,5 @@
 import java. util. Scanner;
-class blood_donate
+class Blood_donate
 {
 public static void main (String args[ ]) 
 {
