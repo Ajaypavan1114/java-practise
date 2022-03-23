@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class prime_or_not {
+class Prime_or_not {
 public static void main(String[] args) {
 
 int num;
