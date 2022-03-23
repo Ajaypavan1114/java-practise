@@ -1,5 +1,5 @@
 //Write a Java program to check whether a number is palindrome or not. 
-class palindrome{  
+class Palindrome{  
       int num,rev=0,digit,temp;
         
         System.out.println("enter number");
