@@ -1,6 +1,6 @@
 //Write a JAVAprogram to print all negative elements in an array.
 import java.util.*;
-class arrarynegative{
+class Arrarynegative{
     public static void main (String args[]){
         int i,n;
         System.out.println("enter size of an array");
