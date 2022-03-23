@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class seclarge
+class Seclarge
 {
     public static void main(String args[])
     {
