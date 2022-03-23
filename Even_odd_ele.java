@@ -1,5 +1,5 @@
 import java.util.*;
-class even_odd_ele{
+class Even_odd_ele{
     public static void main (String args[]){
         int i,n;
         System.out.println("enter size of an array");
