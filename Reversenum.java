@@ -1,6 +1,6 @@
 //Write a Java program to enter a number and print its reverse. 
 import java.util.Scanner;
-public class reversenum{
+public class Reversenum{
     public static void main(String args[])
     {
         int number,reminder,rev=0;
