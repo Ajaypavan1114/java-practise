@@ -1,6 +1,6 @@
 // Write a JAVAprogram to find sum of all odd numbers between 1 to n.
 import java.util.Scanner;
-class sumoddfor
+class Sumoddfor
 {
     public static void main(String[] args) {
         int i,sum=0,n;
